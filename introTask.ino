@@ -29,7 +29,7 @@ void setup() {
 
   //setting up the clock
   rtc.begin();
-  //the value for sec will be never -1 so the first if for logs handel will be always right
+  //the value of sec will be never -1 so the first if for logsHandel always will run
   sec = -1;
 
 
